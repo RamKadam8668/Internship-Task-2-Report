@@ -14,15 +14,15 @@ This project analyzes the Superstore Sales dataset to evaluate sales performance
 
 🗂 Dataset
 
--- Source: Kaggle – Superstore Sales Dataset
--- Type: Retail transactional data
--- Records: ~9,800 orders
--- Time Period: 2015 – 2018
--- Key Features:Order details (Order ID, Order Date, Ship Date)
--- Customer and segment information
--- Product categories and sub-categories
--- Sales, profit, quantity, and discounts
--- Regional and geographical data
+Source: Kaggle – Superstore Sales Dataset
+Type: Retail transactional data
+Records: ~9,800 orders
+Time Period: 2015 – 2018
+Key Features:Order details (Order ID, Order Date, Ship Date)
+Customer and segment information
+Product categories and sub-categories
+Sales, profit, quantity, and discounts
+Regional and geographical data
 
 🧹 Data Preprocessing
 
