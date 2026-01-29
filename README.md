@@ -5,10 +5,15 @@ Superstore Sales Performance Analysis
 This project analyzes the Superstore Sales dataset to evaluate sales performance across regions, product categories, and time. The goal is to identify key revenue drivers, seasonal patterns, and underperforming areas, and to provide data-driven business insights and recommendations for Alfido Tech.
 
 🎯 Objectives
+
 -- Analyze sales trends over time (yearly, quarterly, monthly)
+
 -- Evaluate regional and category-wise sales performance
+
 -- Identify best and worst performing products
+
 -- Study seasonality and sales distribution
+
 -- Build an interactive Power BI dashboard for decision-making
 
 🗂 Dataset
