@@ -6,11 +6,11 @@ This project analyzes the Superstore Sales dataset to evaluate sales performance
 
 🎯 Objectives
 
--- Analyze sales trends over time (yearly, quarterly, monthly)
--- Evaluate regional and category-wise sales performance
--- Identify best and worst performing products
--- Study seasonality and sales distribution
--- Build an interactive Power BI dashboard for decision-making
+1) Analyze sales trends over time (yearly, quarterly, monthly)
+2) Evaluate regional and category-wise sales performance
+3) Identify best and worst performing products
+4) Study seasonality and sales distribution
+5) Build an interactive Power BI dashboard for decision-making
 
 🗂 Dataset
 
